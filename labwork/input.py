@@ -1,0 +1,6 @@
+a=input('enter your name:')
+b=int(input('enter your age:'))
+print(f'My name is {a}.My age is {b} ')
+print('my name is'+a+'. My age is'+str(b))
+print('my name is {} and my age is {}'.format(a,b))
+print('my name is %s and my age %d'%(a,b))
