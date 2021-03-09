@@ -6,6 +6,7 @@ You jog the first mile at 7 mph; then run the next two at 15mph; before jogging 
 miles_from_university=4
 speed_of_bus=25
 time_taken=((miles_from_university/speed_of_bus)*60)
+# 2 minutes in each stop
 time_spend_on_stops=20
 total_time=time_spend_on_stops+time_taken
 print('the total time taken ny the bus is',total_time)
