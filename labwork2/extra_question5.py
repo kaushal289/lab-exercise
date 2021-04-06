@@ -10,6 +10,6 @@ while guess<guess_limit:
         print('you are correct')
         break
 else:
-    n = print('Sorry, you failed.')
+    print('Sorry, you failed.')
 
 
